@@ -8,8 +8,7 @@
 - User dashboard for browsing and saving properties
 - Realtor dashboard for managing listings and tracking sales
 - Live chat feature using Socket.io for real-time communication between users and realtors
-- Getting Started
-- To get started with RealEstateMERN, follow the instructions below to set up the development environment.
+
 
 
 ## Technologies Used
