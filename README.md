@@ -1,6 +1,6 @@
 # RealEstateMERN
 
-## RealEstateMERN is a full-stack real estate platform built using the MERN stack (MongoDB, Express, React, and Node.js). The platform allows users to browse real estate properties on the market and interact with realtors through a live chat feature powered by Socket.io. It includes separate dashboards for users and realtors, with additional functionality for realtors to manage their listings and track sales.
+RealEstateMERN is a full-stack real estate platform built using the MERN stack (MongoDB, Express, React, and Node.js). The platform allows users to browse real estate properties on the market and interact with realtors through a live chat feature powered by Socket.io. It includes separate dashboards for users and realtors, with additional functionality for realtors to manage their listings and track sales.
 
 ## Features
 - Property browsing with filtering and sorting options
