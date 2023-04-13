@@ -12,7 +12,7 @@ RealEstateMERN is a full-stack real estate platform built using the MERN stack (
 
 
 ## Technologies Used
-**RealEstateMERN is built using the following technologies:**
+RealEstateMERN is built using the following technologies:
 
 - MongoDB: A NoSQL database used for storing the application's data, including user information, property listings, and chat messages.
 - Express: A minimal and flexible Node.js web application framework used for handling the back-end API routes and middleware.
