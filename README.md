@@ -9,6 +9,7 @@ RealEstateMERN is a full-stack real estate platform built using the MERN stack (
 - Realtor dashboard for managing listings and tracking sales
 - Live chat feature using Socket.io for real-time communication between users and realtors
 
+<img width="1440" alt="realtalk" src="https://user-images.githubusercontent.com/75766846/235832062-f69d659f-3bcf-4d6a-b525-e234190503a0.png">
 
 
 ## Technologies Used
